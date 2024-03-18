@@ -51,4 +51,4 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-QuizApp is built and maintained by [Nishant Rawat](https://safdarjamal.github.io).
+QuizApp is built and maintained by [Nishant Rawat](https://nishantrawat1.github.io/quiz-app/).

@@ -1,7 +1,7 @@
 {
-  "name": "quiz-app",
+  "name": "QuizApp",
   "version": "6.0.0",
-  "homepage": "https://nishantrawat1.github.io/quiz-app/",
+  "homepage": "https://nishantrawat1.github.io/QuizApp/",
   "private": true,
   "author": {
     "name": "Nishant Rawat"

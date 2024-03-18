@@ -23,7 +23,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/NishantRawat1/quiz-app.git
+git clone https://github.com/NishantRawat1/QuizApp.git
 cd quiz-app
 ```
 
